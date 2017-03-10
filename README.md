@@ -17,7 +17,7 @@ Data Scientist Test
 
     c. Measure and inform about the correlation between column 1 and 3.
 
-4. Push your code back to your fokr at GitHub and submit a Pull Request to the
+4. Push your code back to your fork at GitHub and submit a Pull Request to the
 original repo.
 
 
