@@ -27,6 +27,7 @@ Note: instructions are given to Ubuntu users, if you use windows or mac adapt th
         $ vagrant ssh
         
 3. Install java runtime environment in vagrant environment (Ubuntu server 14.04)
+        
         $ sudo apt-get update
         $ sudo apt-get install default-jdk
         
